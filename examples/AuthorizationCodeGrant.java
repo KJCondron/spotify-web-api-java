@@ -15,7 +15,7 @@ import static junit.framework.TestCase.fail;
  * https://developer.spotify.com/spotify-web-api/authorization-guide/#authorization_code_flow
  * in the "Authorization Code" section.
  */
-public class RefreshTokenAsync {
+public class AuthorizationCodeGrant {
 
   public static void main(String[] args) {
 

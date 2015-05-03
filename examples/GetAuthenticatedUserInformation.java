@@ -15,7 +15,7 @@ import com.wrapper.spotify.models.User;
  * https://developer.spotify.com/spotify-web-api/get-users-profile/ in the
  * "Authorization Code" section.
  */
-public class CurrentUser {
+public class GetAuthenticatedUserInformation {
 
   public static void main(String[] args) {
 

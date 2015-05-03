@@ -15,7 +15,7 @@ import static junit.framework.TestCase.fail;
  * https://developer.spotify.com/spotify-web-api/authorization-guide/#client-credentials-flow
  * in the "Client Credentials" section.
  */
-public class ApplicationAuthentication {
+public class ClientCredentialsFlow {
 
   public static void main(String[] strings) {
 
